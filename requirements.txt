@@ -1,0 +1,11 @@
+PyQt5==5.15.10
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.13.0
+PyAudio==0.2.14
+faster-whisper==1.2.1
+ctranslate2==4.6.2
+onnxruntime-gpu==1.23.2
+pyperclip==1.8.2
+numpy==1.26.4
+huggingface-hub==0.23.2
+tokenizers==0.19.1
